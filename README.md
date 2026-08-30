@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Elyor Khodjimetov 👋</h1>
   <p><strong>Embedded Systems & Linux Kernel Developer | C++ Engineer</strong></p>
-  <p>📍 Uzbekistan &nbsp;|&nbsp; 💬 Uzbek, Russian, English (Learning)</p>
+  <p>💬 Uzbek, Russian, English</p>
 </div>
 
 ---
