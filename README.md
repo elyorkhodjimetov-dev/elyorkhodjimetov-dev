@@ -46,7 +46,7 @@ I am an **Embedded Systems Engineer** specializing in low-level development, fir
 
 #### 🔌 Interfaces, Buses & Networking
 - **Industrial & Serial:** `CAN`, `RS-485`, `RS-232`, `UART`, `SPI`, `I2C`
-- **Networking & Modems:** `Ethernet`, `Cellular Modems (AT Commands)`, `TCP/IP`, `UDP`
+- **Networking & Modems:** `Ethernet`, `Cellular Modems`, `TCP/IP`, `UDP`
 
 #### 🧰 Tools, Build Systems & Lab Equipment
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -54,4 +54,11 @@ I am an **Embedded Systems Engineer** specializing in low-level development, fir
 ![GDB](https://img.shields.io/badge/GDB_(On--Target)-8B0000?style=flat-square)
 ![KiCad](https://img.shields.io/badge/KiCad-3146B5?style=flat-square&logo=kicad&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- **Lab Hardware:** Digital Oscilloscope, Logic Analyzer, Multimeter, JTAG/SWD Debuggers.
+- **Lab Hardware:** Digital Oscilloscope, Logic Analyzer, Multimeter.
+
+---
+
+### 📬 Get in Touch
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Elyor__Khodjimetov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Elyor_Khodjimetov)
+[![Email](https://img.shields.io/badge/Email-elyor.khodjimetov.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elyor.khodjimetov.dev@gmail.com)
