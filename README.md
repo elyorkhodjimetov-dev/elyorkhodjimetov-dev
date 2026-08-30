@@ -8,22 +8,27 @@
 
 ### 🔧 About Me
 
-I am an **Embedded Systems Engineer** specializing in low-level development, firmware, and custom Embedded Linux distributions. My experience spans across bare-metal / RTOS development on microcontrollers to BSP, bootloaders, Device Tree configuration, and kernel integration on single-board computers (ARM architecture).
+I am an **Embedded Systems Engineer** specializing in low-level development, firmware, and custom Embedded Linux distributions. My experience spans across development on microcontrollers to BSP, bootloaders, Device Tree configuration, and kernel integration on single-board computers (ARM architecture).
 
 - 🔭 **Current Focus:** Embedded Linux development, modern C++ (17/20), and industrial protocol integration.
+- 🦀 **Currently Learning & Exploring:** Deep diving into **Rust** and expanding backend/systems tooling with **Go**.
+- 🧠 **Problem Solving:** Actively practicing algorithms & data structures on **LeetCode** and **Codewars**.
 - ⚡ **Tech Philosophy:** High-performance, memory-efficient, and reliable code for mission-critical hardware.
 
 ---
 
 ### 🛠 Tech Stack & Core Competencies
 
-#### 💻 Programming & Scripting
+#### 💻 Programming & Problem Solving
 ![C++](https://img.shields.io/badge/C++17/20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust_(Learning)-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)
 
 #### 🐧 Embedded Linux & OS
 ![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -50,12 +55,3 @@ I am an **Embedded Systems Engineer** specializing in low-level development, fir
 ![KiCad](https://img.shields.io/badge/KiCad-3146B5?style=flat-square&logo=kicad&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 - **Lab Hardware:** Digital Oscilloscope, Logic Analyzer, Multimeter, JTAG/SWD Debuggers.
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elyorkhodjimetov-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyorkhodjimetov-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
