@@ -1,64 +1,68 @@
+<!-- ===== 1. HERO TERMINAL BANNER ===== -->
 <div align="center">
-  <h1>Hi, I'm Elyor Khodjimetov 👋</h1>
-  <p><strong>Embedded Systems & Linux Kernel Developer | C++ Engineer</strong></p>
-  <p>💬 Uzbek, Russian, English</p>
+  <img src="dark.svg" alt="Elyor Khodjimetov HUD" width="100%">
 </div>
 
----
+<br>
 
-### 🔧 About Me
+<!-- ===== 2. GITHUB STATS ===== -->
+<div align="center">
+  <!-- Стрик активности -->
+  <img width="100%" src="https://streak-stats.demolab.com/?user=elyorkhodjimetov-dev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="Streak Stats" />
+  
+  <br><br>
 
-I am an **Embedded Systems Engineer** specializing in low-level development, firmware, and custom Embedded Linux distributions. My experience spans across development on microcontrollers to BSP, bootloaders, Device Tree configuration, and kernel integration on single-board computers (ARM architecture).
+  <!-- Карточки статистики и языков -->
+  <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=elyorkhodjimetov-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats" />
+  <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyorkhodjimetov-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
+  <div style="clear: both;"></div>
+</div>
 
-- 🔭 **Current Focus:** Embedded Linux development, modern C++ (17/20), and industrial protocol integration.
-- 🦀 **Currently Learning & Exploring:** Deep diving into **Rust** and expanding backend/systems tooling with **Go**.
-- 🧠 **Problem Solving:** Actively practicing algorithms & data structures on **LeetCode** and **Codewars**.
-- ⚡ **Tech Philosophy:** High-performance, memory-efficient, and reliable code for mission-critical hardware.
+<br>
 
 ---
 
 ### 🛠 Tech Stack & Core Competencies
 
-#### 💻 Programming & Problem Solving
-![C++](https://img.shields.io/badge/C++17/20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust_(Learning)-DEA584?style=flat-square&logo=rust&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**💻 Systems & Low-Level Programming**  
+![C](https://img.shields.io/badge/C-0A101F?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++%2017/20-0A101F?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Rust](https://img.shields.io/badge/Rust-0A101F?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0A101F?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-0A101F?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)
+**🐧 Embedded Linux & Architecture**  
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-0A101F?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Yocto Project](https://img.shields.io/badge/Yocto_Project-0A101F?style=for-the-badge&logo=yocto&logoColor=orange)
+![Buildroot](https://img.shields.io/badge/Buildroot-0A101F?style=for-the-badge&logoColor=white)
+![U-Boot](https://img.shields.io/badge/U--Boot-0A101F?style=for-the-badge&logoColor=cyan)
+![Device Tree](https://img.shields.io/badge/Device_Tree-0A101F?style=for-the-badge&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex-0A101F?style=for-the-badge&logo=arm&logoColor=0091BD)
 
-#### 🐧 Embedded Linux & OS
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Yocto Project](https://img.shields.io/badge/Yocto_Project-1A5276?style=flat-square&logo=linuxfoundation&logoColor=white)
-![Buildroot](https://img.shields.io/badge/Buildroot-FF6600?style=flat-square&logo=freebsd&logoColor=white)
-![U-Boot](https://img.shields.io/badge/U--Boot-333333?style=flat-square&logo=linux&logoColor=white)
-![Device Tree](https://img.shields.io/badge/Device_Tree_(DTS)-444444?style=flat-square&logo=microchip&logoColor=white)
+**🔌 Interfaces, Buses & Networking**  
+`CAN` • `RS-485` • `RS-232` • `UART` • `SPI` • `I2C` • `Ethernet` • `TCP/IP` • `Cellular Modems`
 
-#### 📟 Hardware & Architectures
-![ARM Cortex](https://img.shields.io/badge/ARM_Architecture-0091BD?style=flat-square&logo=arm&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32_MCU-03234C?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_3-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino Due](https://img.shields.io/badge/Arduino_Due-00979D?style=flat-square&logo=arduino&logoColor=white)
-![SoCs](https://img.shields.io/badge/Allwinner_/_Rockchip_SoCs-555555?style=flat-square)
-
-#### 🔌 Interfaces, Buses & Networking
-- **Industrial & Serial:** `CAN`, `RS-485`, `RS-232`, `UART`, `SPI`, `I2C`
-- **Networking & Modems:** `Ethernet`, `Cellular Modems`, `TCP/IP`, `UDP`
-
-#### 🧰 Tools, Build Systems & Lab Equipment
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Make](https://img.shields.io/badge/GNU_Make-000000?style=flat-square&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB_(On--Target)-8B0000?style=flat-square)
-![KiCad](https://img.shields.io/badge/KiCad-3146B5?style=flat-square&logo=kicad&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- **Lab Hardware:** Digital Oscilloscope, Logic Analyzer, Multimeter.
+**🧰 Tools & Lab Equipment**  
+![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032)
+![CMake](https://img.shields.io/badge/CMake-0A101F?style=for-the-badge&logo=cmake&logoColor=064F8C)
+![Docker](https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker&logoColor=2496ED)  
+`Digital Oscilloscope` • `Logic Analyzer` • `Multimeter` • `JTAG/SWD Debuggers`
 
 ---
 
 ### 📬 Get in Touch
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Elyor__Khodjimetov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Elyor_Khodjimetov)
-[![Email](https://img.shields.io/badge/Email-elyor.khodjimetov.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elyor.khodjimetov.dev@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A101F" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me">
+    <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@domain.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+</div>
